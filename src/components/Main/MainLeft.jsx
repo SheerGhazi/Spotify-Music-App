@@ -1,4 +1,7 @@
 import React from 'react'
+import { IoLibrarySharp } from "react-icons/io5";
+import { FiPlus } from "react-icons/fi";
+import LibSection from "../LibrarySection/LibSection";
 
 const MainLeft = () => {
   return (
