@@ -16,6 +16,7 @@ const Navbar = () => {
 
           <input
             className="bg-gray-600 rounded-2xl px-20 py-1"
+            placeholder="What you want to play?"
             type="text"
             name=""
             id=""
@@ -27,7 +28,7 @@ const Navbar = () => {
               <button>SignIn</button>
             </a>
           </div>
-          <div className="signUpBtn  ">
+          <div className="signUpBtn hover:scale-105 ">
             <a href="#">
               <button className="bg-white text-black text-lg font-semibold rounded-2xl px-3">
                 SignUp
