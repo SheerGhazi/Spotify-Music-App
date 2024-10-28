@@ -4,7 +4,7 @@ import Main from '../components/Main/Main'
 
 const Home = () => {
   return (
-    <div className='bg-black'>
+    <div className='bg-black h-screen'>
       <Navbar/>
       <Main/>
     </div>

@@ -12,7 +12,7 @@ const MainLeft = () => {
         <h3 className="font-semibold text-lg">Your Library</h3>
       </div>
       <div className="plus-icon hover:bg-gray-400 p-1 rounded-full">
-      <FiPlus className=" "  />
+      <FiPlus className=" "/>
       </div>
     </div>
 
