@@ -19,6 +19,32 @@ const MainRight = () => {
     <p>hello</p>
     <p>hello</p>
     <p>hello</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
     </div>
   )
 }
