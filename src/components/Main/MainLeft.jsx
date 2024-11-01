@@ -28,6 +28,17 @@ const MainLeft = () => {
   <a className='hover:text-gray-600' href="">Privacy Center</a>
   <a className='hover:text-gray-600' href="">About Ads</a>
   <a className='hover:text-gray-600' href="">Accesibilities</a>
+  <a className='hover:text-gray-600' href="">Accesibilities</a>
+  <a className='hover:text-gray-600' href="">Accesibilities</a>
+  <a className='hover:text-gray-600' href="">Accesibilities</a>
+  <a className='hover:text-gray-600' href="">Accesibilities</a>
+  <a className='hover:text-gray-600' href="">Accesibilities</a>
+  <a className='hover:text-gray-600' href="">Accesibilities</a>
+  <a className='hover:text-gray-600' href="">Accesibilities</a>
+  <a className='hover:text-gray-600' href="">Accesibilities</a>
+  <a className='hover:text-gray-600' href="">Accesibilities</a>
+  <a className='hover:text-gray-600' href="">Accesibilities</a>
+  <a className='hover:text-gray-600' href="">Accesibilities</a>
  </div>
  <div className='p-3'>
   <a className='text-xs font-bold ' href="">Cookies</a>
