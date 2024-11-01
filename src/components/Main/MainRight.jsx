@@ -112,6 +112,75 @@ const MainRight = () => {
     <p>Hi</p>
     <p>Hi</p>
     <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
+    <p>Hi</p>
     </div>
   )
 }
